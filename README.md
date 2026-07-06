@@ -69,7 +69,7 @@ Highlights
 
 Repository 
 
-👉 github.com/diegovegam/OnlineShopForBags
+👉 https://github.com/diegovegam/OnlineShopForBags
 
 ### 📋 Inventory and Billing Management System
 
